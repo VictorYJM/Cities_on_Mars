@@ -41,13 +41,20 @@ O **Caminhos em Marte** é uma aplicação desktop em C# que permite gerenciar c
 <img src="https://github.com/user-attachments/assets/0bafb991-bb2e-411d-ba14-c3a579a634a4" alt="Cidade encontrada">
 
 ### Listar cidades
-
+<img src="https://github.com/user-attachments/assets/d6eb77c1-3f38-452e-9006-b86bf2abadb9" alt="Cidades listadas">
 
 ### Leitura do arquivo de caminhos entre cidades
+<img src="https://github.com/user-attachments/assets/4042ce4d-7252-4990-8295-5c0c6c5421ef" alt="Teste de Leitura do arquivo de cidades">
+<img src="https://github.com/user-attachments/assets/3ecf4cd8-2324-4988-94f2-6c3a9f304c7c" alt="Teste de Leitura do arquivo de caminhos entre cidades">
+<img src="https://github.com/user-attachments/assets/1545517f-c69f-489e-bb33-d57fb751cf54" alt="Resultado da leitura dos arquivos">
 
 ### Adicionar caminho entre cidades
+<img src="https://github.com/user-attachments/assets/4d31c81c-605e-42fb-a2d3-73831e1570f6" alt="Preparação para adicionar caminho entre cidades">
+<img src="https://github.com/user-attachments/assets/b5eedc61-8afc-4a84-868d-cab9d9b0add6" alt="Caminho adicionado">
 
 ### Remover caminho entre cidades
+<img src="https://github.com/user-attachments/assets/f6b9ca93-4f4e-46c6-9826-255383eca187" alt="Preaparação pararemover caminho entre cidades">
+<img src="https://github.com/user-attachments/assets/4ecfaa6b-4f91-4cbc-b472-52b754744529" alt="Caminho removido">
 
 ### Alterar caminho entre cidades
 
