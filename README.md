@@ -57,9 +57,25 @@ O **Caminhos em Marte** é uma aplicação desktop em C# que permite gerenciar c
 <img src="https://github.com/user-attachments/assets/4ecfaa6b-4f91-4cbc-b472-52b754744529" alt="Caminho removido">
 
 ### Alterar caminho entre cidades
+<img src="https://github.com/user-attachments/assets/d5d545f2-98da-4dc0-b02f-c302347a8a26" alt="Preparação para alterar caminho entre cidades">
+<img src="https://github.com/user-attachments/assets/7c8c2f66-5584-4fc4-8140-c9777fb93509" alt="Caminho alterado">
 
 ### Buscar todos os caminhos entre duas cidades
+<img src="https://github.com/user-attachments/assets/d0e06e2b-44ff-4285-86ae-825c9925f4bc" alt="Preparação para buscar todos os caminhos">
+<img src="https://github.com/user-attachments/assets/1caecfb8-1e31-44e6-a517-21d1af547dc5" alt="Exibição do caminho 1">
+<img src="https://github.com/user-attachments/assets/1bc3e669-03e8-4c00-826a-adcc980c7e6e" alt="Exibição do caminho 2">
+<img src="https://github.com/user-attachments/assets/ce2e478b-8377-4bd7-9b26-53ee3f36f8f4" alt="Exibição do caminho 3">
 
 ### Salvar as alterações dos dados
+<img src="https://github.com/user-attachments/assets/75379d2d-145b-4a42-8279-44b7bcb3938e" alt="Preaparação para salvar os dados e fechar o programa">
+<img src="https://github.com/user-attachments/assets/34cb73cc-f9a3-465e-acf9-d1f5bf97e7cb" alt="Gravando os dados no arquivo de cidades">
+<img src="https://github.com/user-attachments/assets/67d11611-35a2-4281-9003-f0c688b9193b" alt="Gravando os dados no arquivo de caminhos">
 
 ## Tecnologias utilizadas
+
+### C#
+### Windows Forms
+### Algorítmos de hash
+### Algoritmos de grafos
+### Algoritmos de pilhas
+### Backtracking
