@@ -1,4 +1,4 @@
-# Paths on Mars
+# Cities on Mars
 
 ![Screenshot 2024-09-22 111609](https://github.com/user-attachments/assets/20dd5639-985e-4ca1-ab74-de51dabc6afa)
 
