@@ -73,9 +73,9 @@ O **Caminhos em Marte** é uma aplicação desktop em C# que permite gerenciar c
 
 ## Tecnologias utilizadas
 
-### C#
-### Windows Forms
-### Algorítmos de hash
-### Algoritmos de grafos
-### Algoritmos de pilhas
-### Backtracking
+- C#
+- Windows Forms
+- Algorítmos de hash
+- Algoritmos de grafos
+- Algoritmos de pilhas
+- Backtracking
