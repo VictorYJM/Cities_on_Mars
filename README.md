@@ -27,9 +27,10 @@ O **Caminhos em Marte** é uma aplicação desktop em C# que permite gerenciar c
 ### Leitura do arquivo de cidades
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/user-attachments/assets/5c994d2b-c67a-4898-92d9-fa2899354233" alt="Teste de Leitura do arquivo de cidades" style="width: 300px; margin-right: 10px;">
-    <span>➡️</span>
-    <img src="https://github.com/user-attachments/assets/c84ac8e3-4014-4635-82b9-fa4b97b5690f" alt="Resultado da Leitura do arquivo de cidades" style="width: 300px; margin-left: 10px;">
+    <span style="font-size: 24px; margin: 0 10px;">➡️</span>
+    <img src="https://github.com/user-attachments/assets/c84ac8e3-4014-4635-82b9-fa4b97b5690f" alt="Resultado da Leitura do arquivo de cidades" style="width: 300px;">
 </div>
+
 
 ### Adicionar cidade
 
