@@ -36,10 +36,12 @@ O **Caminhos em Marte** é uma aplicação desktop em C# que permite gerenciar c
 <img src="https://github.com/user-attachments/assets/bd0c105a-da3f-426f-9076-dfd4a9568d7a" alt="Preparação para remover cidade">
 <img src="https://github.com/user-attachments/assets/0420cbdb-36b1-47f2-9127-de6b3accef02" alt="Cidade remmovida">
 
-
 ### Procurar cidade
+<img src="https://github.com/user-attachments/assets/008dabeb-f570-4401-9f40-8d5c8cb1a7df" alt="Preparação para procurar cidade">
+<img src="https://github.com/user-attachments/assets/0bafb991-bb2e-411d-ba14-c3a579a634a4" alt="Cidade encontrada">
 
 ### Listar cidades
+
 
 ### Leitura do arquivo de caminhos entre cidades
 
